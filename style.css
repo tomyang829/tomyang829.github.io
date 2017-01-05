@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("http://miriadna.com/desctopwalls/images/max/April-sunrise.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("http://miriadna.com/desctopwalls/images/max/April-sunrise.jpg") fixed;
   background-size: 100% 100%;
 }
 
