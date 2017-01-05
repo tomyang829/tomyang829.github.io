@@ -1,10 +1,12 @@
 body {
   background: url("http://miriadna.com/desctopwalls/images/max/April-sunrise.jpg") 0 0 no-repeat fixed;
+  width: 100%;
 }
 
 .overlay {
   background: rgba(0, 0, 0, 0.4);
   height: 100%;
+  width: 100%;
   z-index: 2;
   margin: -0.5em;
   padding: 0.5em;
