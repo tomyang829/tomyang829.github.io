@@ -39,7 +39,6 @@ body {
   cursor: pointer;
 }
 
-//padding
 h3,
 p,
 h {
@@ -81,7 +80,6 @@ ul {
   text-decoration: none;
 }
 
-//contact info
 div.contact {
   background-color: rgba(255, 255, 255, 0.7);
   width: 25em;
