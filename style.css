@@ -1,11 +1,12 @@
 body {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("http://miriadna.com/desctopwalls/images/max/April-sunrise.jpg") fixed;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("http://i.imgur.com/FgBwap6.jpg") fixed;
   background-size: 100% 100%;
 }
 
+
 .menu {
   box-sizing: border-box;
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.9);
   border: none;
   list-style-type: none;
   margin: 0;
@@ -34,10 +35,10 @@ body {
 
 h3,
 p,
-h {
+h, ul {
   padding-left: 40px;
   padding-right: 40px;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(0, 0, 0, 0.9);
 }
 
 h3,
@@ -64,6 +65,11 @@ ul {
   text-align: left;
 }
 
+#profile {
+ text-align: center;
+ color: rgba(255, 255, 255, 0.9);
+}
+
 #contact {
   color: black;
 }
@@ -73,14 +79,24 @@ ul {
   text-decoration: none;
 }
 
+div.info {
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 100em;
+  margin: auto;
+  overflow: hidden;
+  min-width: 20em;
+  border-radius: 0.3em;
+  padding-top: 20px;
+}
+
 div.contact {
-  background-color: rgba(255, 255, 255, 0.7);
-  width: 25em;
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 26em;
   margin: auto;
   text-align: center;
   overflow: hidden;
   min-width: 20em;
-  border-radius: 0.7em;
+  border-radius: 0.3em;
 }
 
 #exp {
